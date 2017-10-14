@@ -1,0 +1,38 @@
+.list-address  span{
+	margin-right: 5px;
+	font-weight: 700;
+}
+.panel-blue{
+	background: #0275d8;
+	color: white;
+	padding-bottom: 5px;
+}
+.search{
+	width: 100%;	
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+.search-group{
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 10px;
+}
+.search-group div{
+	padding-right: 0;
+	padding-left: 0;
+}
+.btn-add{
+	width: 97%;
+    border: none;
+    padding: 6px;
+    background: #8ae66d;
+    color: white;
+}
+#add .ngdialog-content{
+	width: 80% !important;
+}
+.subtitle-form{
+	padding-top: 20px;
+}
